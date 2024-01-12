@@ -1,0 +1,14 @@
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave Social Media moodle emne3\Oppgave Social Media moodle emne3\bin\Debug\net6.0\Oppgave Social Media moodle emne3.exe
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave Social Media moodle emne3\Oppgave Social Media moodle emne3\bin\Debug\net6.0\Oppgave Social Media moodle emne3.deps.json
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave Social Media moodle emne3\Oppgave Social Media moodle emne3\bin\Debug\net6.0\Oppgave Social Media moodle emne3.runtimeconfig.json
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave Social Media moodle emne3\Oppgave Social Media moodle emne3\bin\Debug\net6.0\Oppgave Social Media moodle emne3.dll
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave Social Media moodle emne3\Oppgave Social Media moodle emne3\bin\Debug\net6.0\Oppgave Social Media moodle emne3.pdb
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave Social Media moodle emne3\Oppgave Social Media moodle emne3\obj\Debug\net6.0\Oppgave Social Media moodle emne3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave Social Media moodle emne3\Oppgave Social Media moodle emne3\obj\Debug\net6.0\Oppgave Social Media moodle emne3.AssemblyInfoInputs.cache
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave Social Media moodle emne3\Oppgave Social Media moodle emne3\obj\Debug\net6.0\Oppgave Social Media moodle emne3.AssemblyInfo.cs
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave Social Media moodle emne3\Oppgave Social Media moodle emne3\obj\Debug\net6.0\Oppgave Social Media moodle emne3.csproj.CoreCompileInputs.cache
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave Social Media moodle emne3\Oppgave Social Media moodle emne3\obj\Debug\net6.0\Oppgave Social Media moodle emne3.dll
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave Social Media moodle emne3\Oppgave Social Media moodle emne3\obj\Debug\net6.0\refint\Oppgave Social Media moodle emne3.dll
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave Social Media moodle emne3\Oppgave Social Media moodle emne3\obj\Debug\net6.0\Oppgave Social Media moodle emne3.pdb
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave Social Media moodle emne3\Oppgave Social Media moodle emne3\obj\Debug\net6.0\Oppgave Social Media moodle emne3.genruntimeconfig.cache
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave Social Media moodle emne3\Oppgave Social Media moodle emne3\obj\Debug\net6.0\ref\Oppgave Social Media moodle emne3.dll
